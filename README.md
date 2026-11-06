@@ -1,6 +1,48 @@
 # FlightWindow: A Weather-Aware AI Planner for Scarce Low-Altitude Test Airspace in Jiangsu
 
 **Proposal for the 2026 JHMUA Excellence Cup: Bridging Minds for Regional Innovation**
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="output/fig1_heatmap.png" alt="Figure 1: Usable flight-window heatmap by city and month" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="output/fig2_sensitivity.png" alt="Figure 2: Sensitivity of usable days to wind limit" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="extra_output/fig3_cause_by_month.png" alt="Figure 3: Cause of unusable days by city and month" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="extra_output/fig4_cause_vs_wind_limit.png" alt="Figure 4: Cause of unusable days versus wind limit" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="extra_output/fig5_interannual_uncertainty.png" alt="Figure 5: Interannual uncertainty in usable-day share" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="extra_output/fig6_time_of_day.png" alt="Figure C1: Flyable-hour share by time of day" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="extra_output/fig7_distributions.png" alt="Figure C2: Gust, wind and rain distributions" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="extra_output/fig8_robustness.png" alt="Figure 6: Robustness to window length and rain limit" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="extra_output/fig9_persistence.png" alt="Figure 7: Persistence and clustering of unusable days" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="extra_output/fig10_campaign_delay.png" alt="Figure 8: Empirical campaign delay by start month and campaign length" width="100%">
+    </td>
+  </tr>
+</table>
 
 **Track:** Technology-Driven Advancements (with links to Economic Growth & Innovation and Cross-Regional Collaboration)
 
