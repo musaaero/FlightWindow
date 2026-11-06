@@ -1,0 +1,6 @@
+city,P_unusable_pct,P_unusable_given_yesterday_unusable_pct,mean_spell_days,longest_spell_days,share_of_spells_ge3_days_pct
+Nanjing,7.94,22.26,1.29,5,6.45
+Suzhou,10.88,23.57,1.31,6,5.99
+Wuxi,10.73,21.81,1.28,5,6.53
+Yangzhou,9.46,25.53,1.34,4,7.42
+Changzhou,10.23,24.57,1.33,5,7.74
