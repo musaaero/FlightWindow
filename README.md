@@ -377,19 +377,6 @@ These two figures support the choice of operational window in Section 3.2 and se
 ├── code/
 │   ├── flyable_hours.py          # data download, Tables 1-2, Figures 1-2
 │   └── extra_figures.py          # cause split, bootstrap, robustness, persistence, campaign delay, Appendix C
-├── output/
-│   ├── fig1_heatmap.png
-│   ├── fig2_sensitivity.png
-│   ├── summary.md
-│   ├── table1_usable_day_share_by_month.csv
-│   ├── table2_usable_day_share_sensitivity.csv
-│   ├── table3_flyable_hour_share_sensitivity.csv
-│   └── cache/
-│       ├── Changzhou_2015.csv ... Changzhou_2025.csv
-│       ├── Nanjing_2015.csv   ... Nanjing_2025.csv
-│       ├── Suzhou_2015.csv    ... Suzhou_2025.csv
-│       ├── Wuxi_2015.csv      ... Wuxi_2025.csv
-│       └── Yangzhou_2015.csv  ... Yangzhou_2025.csv
 ├── extra_output/
 │   ├── campaign_delay_summary.csv
 │   ├── cause_annual_by_city.csv
@@ -422,4 +409,4 @@ These two figures support the choice of operational window in Section 3.2 and se
         └── Yangzhou_2015.csv  ... Yangzhou_2025.csv
 ```
 
-> **Note:** `result/` and `output/` contain the same main results and cache files. `extra_output/` contains the extended analyses and Appendix C figures.
+> **Note:** `result/` contains the main results and cached weather data; `extra_output/` contains the extended analyses and Appendix C figures. Run `code/flyable_hours.py` and `code/extra_figures.py` to regenerate them.
